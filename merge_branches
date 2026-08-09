@@ -1,8 +1,7 @@
 $ git checkout main
-Switched to branch 'main'
+Already on 'main'
 $ git merge bug-fix-typo
 Updating ad95b0a..6866eb0
 Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
-
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
